@@ -75,6 +75,13 @@
 </div>
 
 ---
+### `// contribution graph`
+
+<div align="center">
+
+![Snake](https://github.com/khananon/khananon/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 <div align="center">
 
