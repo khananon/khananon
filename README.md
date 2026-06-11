@@ -46,23 +46,7 @@
 
 ---
 
-### `// trophies`
 
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=khananon&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
-
-</div>
-
----
-
-### `// top contributions`
-
-<div align="center">
-
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=khananon&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-</div>
 
 ---
 
@@ -70,7 +54,7 @@
 
 <div align="center">
 
-<img src="https://rm.up.railway.app/" width="400px" />
+<img src="https://randommeme-five.vercel.app/" width="400px" />
 
 </div>
 
@@ -80,6 +64,7 @@
 <div align="center">
 
 ![Snake](https://github.com/khananon/khananon/blob/output/github-contribution-grid-snake-dark.svg)
+![3D Graph](https://raw.githubusercontent.com/khananon/khananon/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 </div>
 
